@@ -13,3 +13,4 @@ http://www.agile-code.com/blog/entity-framework-code-first-filtering-and-sorting
 
 3- Validating data with Caliburn.Micro
 http://www.redmountainsw.com/wordpress/2012/12/21/tutorial-validating-data-with-caliburn-micro/<br>
+https://github.com/tibel/Caliburn.Micro.Extras/blob/master/samples/Samples.Validation/ShellViewModel.cs<br>
