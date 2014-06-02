@@ -1,7 +1,7 @@
 MyWebSites
 ==========
 
-<B>The required web sites are listed here.</B>
+<B>The required web sites are listed below:</B>
 
 <B>1- Implementing the Repository and Unit of Work</B><br>
 http://www.asp.net/mvc/tutorials/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application<br>
